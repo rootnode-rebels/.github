@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=150&section=header&text=RootNode-Rebels&fontSize=60&fontAlignY=40&desc=Architecting%20the%20Future%20of%20Web%20Systems&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=150&section=header&text=FuGen%20India%20Private%20Limited&fontSize=45&fontAlignY=40&desc=Architecting%20the%20Future%20of%20Web%20Systems&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=We+Build+Scalable+ERP+Systems;We+Engineer+Modern+Web+Apps;We+Write+Code+That+Commands+The+Root+Node)](https://git.io/typing-svg)
 
