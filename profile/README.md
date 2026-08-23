@@ -41,8 +41,8 @@ We don't just write code; we build production systems. Here are our top deployme
 
 ### 📊 GLOBAL IMPACT
 
-<img src="https://github-readme-stats.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="300" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="300" />
 
 </div>
 
