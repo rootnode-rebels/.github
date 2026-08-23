@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=150&section=header&text=RootNode-Rebels&fontSize=60&fontAlignY=40&desc=Architecting%20the%20Future%20of%20Web%20Systems&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:10B981,100:0D1117&height=180&section=header&text=RootNode%20Rebels&fontSize=56&fontAlignY=35&desc=Architecting%20the%20Future%20of%20Web%20Systems&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
 
 <br/>
 
@@ -14,9 +14,25 @@
 
 <br/>
 
+---
+
+### 🏛️ &nbsp; ORGANIZATIONAL PILLARS
+
 <div align="center">
 
-### ⚡ ENGINEERING ARSENAL
+| ⚡ Innovation | 🏛️ Clean Architecture | 🛡️ Reliability |
+| :---: | :---: | :---: |
+| Developing modern solutions using cutting-edge web frameworks and serverless tech. | Building modular, maintainable, and well-documented software architectures. | Ensuring high uptime, bulletproof security, and real-time telemetry across products. |
+
+</div>
+
+<br/>
+
+---
+
+### ⚙️ &nbsp; ENGINEERING ARSENAL
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,c,cpp&perline=8" />
 <br/>
@@ -24,44 +40,58 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
-### 🚀 OUR FLAGSHIP PROJECTS
+---
+
+### 🚀 &nbsp; FLAGSHIP PRODUCTION DEPLOYMENTS
 
 We don't just write code; we build production systems. Here are our top deployments:
 
-| 🎓 Sri Basaveswara School ERP | 🛒 Smart Trolley App | 🛡️ Aegis Health Monitor |
-| :---: | :---: | :---: |
-| Automated student pipelines and real-time administrative analytics dashboards. | Next-gen logistics app streamlining inventory and retail checkout experiences. | Real-time healthcare telemetry platform for patient monitoring and alerting. |
-| [**View Source**](https://github.com/RootNode-Rebels/sribasaveswaraschool) | [**View Source**](https://github.com/RootNode-Rebels/smarttrolleyapp) | [**View Source**](https://github.com/RootNode-Rebels/Aegis-Health-Monitor) |
-
-<br/><br/>
-
 <div align="center">
 
-### 📊 GLOBAL IMPACT
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="400" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="300" />
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🎓 **Sri Basaveswara School ERP** | Automated student pipelines and real-time administrative analytics dashboards. | `HTML` `CSS` `JS` `Firebase` | [**View Source**](https://github.com/RootNode-Rebels/sribasaveswaraschool) |
+| 🛒 **Smart Trolley App** | Next-gen logistics app streamlining inventory and retail checkout experiences. | `Next.js` `Supabase` `Postgres` | [**View Source**](https://github.com/RootNode-Rebels/smarttrolleyapp) |
+| 🛡️ **Aegis Health Monitor** | Real-time healthcare telemetry platform for patient monitoring and alerting. | `Node.js` `React` `Telemetry` | [**View Source**](https://github.com/RootNode-Rebels/Aegis-Health-Monitor) |
 
 </div>
 
-<br/><br/>
+<br/>
+
+---
+
+### 📊 &nbsp; ORGANIZATION METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
+&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 📡 SECURE A CONNECTION 
+### 📡 &nbsp; ESTABLISH A CONNECTION
 
 We actively develop open-source utilities and private enterprise applications. We welcome pull requests and technical discussions from engineers worldwide.
 
-[![Email](https://img.shields.io/badge/Email-contact%40rootnode--rebels.cc.cd-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rootnode-rebels.cc.cd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/RootNode-Rebels)
-[![Website](https://img.shields.io/badge/Company_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rootnode-rebels.github.io)
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:10B981&height=10&section=footer" width="100%" />
+<a href="mailto:contact@rootnode-rebels.cc.cd"><img src="https://img.shields.io/badge/Email-contact%40rootnode--rebels.cc.cd-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/company/RootNode-Rebels" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://rootnode-rebels.github.io" target="_blank"><img src="https://img.shields.io/badge/Company_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:10B981,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
