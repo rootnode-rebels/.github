@@ -62,13 +62,18 @@ We don't just write code; we build production systems. Here are our top deployme
 
 ---
 
-### 📊 &nbsp; ORGANIZATION METRICS
+### 👥 &nbsp; EXECUTIVE LEADERSHIP & TEAM
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=developeradhi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
-&nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeradhi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
+| Member | Role | Profile |
+| :--- | :--- | :---: |
+| **Adarsh B A** | Founder & CEO | [**LinkedIn ↗**](https://www.linkedin.com/in/developeradhi/) |
+| **Akash R** | Co-Founder & CTO | [**LinkedIn ↗**](https://www.linkedin.com/in/akashr24012007/) |
+| **Akash P** | Marketing Lead & CFO | [**LinkedIn ↗**](https://www.linkedin.com/in/akash-p-46b66a386/) |
+| **Jeevan H S** | Marketing Manager & COO | [**LinkedIn ↗**](https://www.linkedin.com/in/jeevan-h-s-30b756386/) |
+| **Akshath C H** | Co-Founder & CKO | [**LinkedIn ↗**](https://www.linkedin.com/in/akshath-ch-8a0b19384/) |
+| **Prajval R Shunty** | CIO & Editor | [**LinkedIn ↗**](https://www.linkedin.com/in/prajval-r-shunty-139a47385/) |
 
 </div>
 
