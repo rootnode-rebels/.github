@@ -62,13 +62,17 @@ We don't just write code; we build production systems. Here are our top deployme
 
 ---
 
-### 📊 &nbsp; ORGANIZATION METRICS
+### 📊 &nbsp; FEATURED REPOSITORY CARDS
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RootNode-Rebels&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
+<a href="https://github.com/RootNode-Rebels/sribasaveswaraschool" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RootNode-Rebels&repo=sribasaveswaraschool&theme=react&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=ffffff&hide_border=true" width="45%" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RootNode-Rebels&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" width="45%" />
+<a href="https://github.com/RootNode-Rebels/smarttrolleyapp" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RootNode-Rebels&repo=smarttrolleyapp&theme=react&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=ffffff&hide_border=true" width="45%" />
+</a>
 
 </div>
 
